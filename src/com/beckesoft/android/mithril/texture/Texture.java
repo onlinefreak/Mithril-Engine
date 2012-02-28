@@ -2,7 +2,7 @@ package com.beckesoft.android.mithril.texture;
 
 import java.io.IOException;
 
-import com.beckesoft.android.mithril.main.MithrilEngine;
+import com.beckesoft.android.mithril.MithrilEngine;
 import com.beckesoft.android.mithril.math.MathHelper;
 import com.beckesoft.android.mithril.output.Logger;
 

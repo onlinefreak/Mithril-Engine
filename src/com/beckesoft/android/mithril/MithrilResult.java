@@ -1,4 +1,4 @@
-package com.beckesoft.android.mithril.main;
+package com.beckesoft.android.mithril;
 
 public enum MithrilResult {
 	ME_OK,

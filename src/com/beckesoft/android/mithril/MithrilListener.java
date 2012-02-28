@@ -1,4 +1,4 @@
-package com.beckesoft.android.mithril.main;
+package com.beckesoft.android.mithril;
 
 public interface MithrilListener {
 	public void setup(MithrilEngine engine);
