@@ -25,7 +25,7 @@ public class MithrilEngine extends Activity implements Renderer{
 	private int width, height;
 	
 	private MithrilListener listener;
-	
+	//test
 	private long lastFrameStart;
 	
 	private float deltaTime;
